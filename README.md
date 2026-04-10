@@ -16,7 +16,7 @@ Built a high-performance desktop PC focused on gaming, productivity, and system 
 | Power Supply    | Corsair RM850x (850W) |
 | CPU Cooler      | Corsair H100i Liquid Cooler |
 | Storage         | 1TB NVMe SSD + 250GB SSD |
-| Case            | (Add your case here) |
+| Case            | LANCOOL III |
 
 ---
 
@@ -25,7 +25,7 @@ Built a high-performance desktop PC focused on gaming, productivity, and system 
 ### 1. Component Selection
 - Selected compatible components (Intel LGA1200 platform)
 - Ensured adequate power delivery (850W PSU for GPU + CPU)
-- Chose liquid cooling for improved thermal performance
+- Choose liquid cooling for improved thermal performance
 - Included fast storage (NVMe SSD) for OS and applications
 
 ---
