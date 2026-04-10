@@ -71,7 +71,7 @@ Launch the utility: <br/>
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://imgur.com/TWeZmEg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/67tnFDg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 ---
